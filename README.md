@@ -1,9 +1,11 @@
-<!-- Bannière principale avec slogan -->
+<table width="100%" background="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png" style="background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; color: white;">
+  <tr>
+    <td style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px;">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" style="max-width: 100%; height: auto;" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22" style="max-width: 100%; height: auto;" />
 </p>
@@ -87,7 +89,6 @@
   <br><em>« Code dur, rêve plus grand. »</em>
 </p>
 
-<!-- Background en CSS via badge markdown -->
-<p>
-  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png" width="0" height="0" style="background-image: url('https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png'); background-size: cover; position: fixed; z-index: -1; top: 0; left: 0; width: 100vw; height: 100vh;"/>
-</p>
+    </td>
+  </tr>
+</table>
