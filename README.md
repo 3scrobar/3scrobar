@@ -1,13 +1,9 @@
-<table width="100%" background="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png" style="background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; color: white;">
-  <tr>
-    <td style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px;">
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
 </p>
 
 <h1 align="center" style="color:#FF00FF;">⚡ 3scrobar — CyberDev de l'espace ⚡</h1>
@@ -28,7 +24,7 @@
 ## 💻 Technologies utilisées
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vscode&perline=4" style="max-width: 100%; height: auto;" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vscode&perline=6" />
 </p>
 
 ---
@@ -43,19 +39,11 @@
 
 ---
 
-## 🚀 Animation Space Shooter
-
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Animation Space Shooter" style="max-width: 100%; height: auto; border-radius: 10px;" />
-</p>
-
----
-
 ## 🔮 Statistiques interstellaires
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3scrobar&show_icons=true&theme=tokyonight" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3scrobar&layout=compact&theme=tokyonight" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3scrobar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3scrobar&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -88,7 +76,3 @@
   <img src="https://media.giphy.com/media/QGE6fQc8mrTASBVxhF/giphy.gif" width="300"/>
   <br><em>« Code dur, rêve plus grand. »</em>
 </p>
-
-    </td>
-  </tr>
-</table>
