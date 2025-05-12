@@ -1,9 +1,16 @@
+<!-- Fond Cyberpunk Spatial (responsive) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" />
+  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png" alt="Fond Cyberpunk Spatial" style="max-width: 100%; height: auto;" />
 </p>
 
+<!-- Bannière principale avec slogan -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
+  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" style="max-width: 100%; height: auto;" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22" style="max-width: 100%; height: auto;" />
 </p>
 
 <h1 align="center" style="color:#FF00FF;">⚡ 3scrobar — CyberDev de l'espace ⚡</h1>
@@ -24,7 +31,7 @@
 ## 💻 Technologies utilisées
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vscode&perline=4" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
@@ -39,11 +46,19 @@
 
 ---
 
+## 🚀 Animation Space Shooter
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtfHI04l9bdLNmM/giphy.gif" alt="Animation Space Shooter" style="max-width: 100%; height: auto;" />
+</p>
+
+---
+
 ## 🔮 Statistiques interstellaires
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3scrobar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3scrobar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3scrobar&show_icons=true&theme=tokyonight" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3scrobar&layout=compact&theme=tokyonight" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
@@ -58,7 +73,7 @@
 
 ## 🧭 Me retrouver ailleurs dans la galaxie
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3scrobar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-le-sauter-629152337)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3scrobar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-le-sauter-629152337)  
 [![42 Profile](https://img.shields.io/badge/42_Profile-black?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/3scrobar)
 
 ---
@@ -73,6 +88,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QGE6fQc8mrTASBVxhF/giphy.gif?cid=ecf05e476ui34t25adga2cok2fsso5rzv1ezwbctddej7l8k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media.giphy.com/media/QGE6fQc8mrTASBVxhF/giphy.gif" width="300"/>
   <br><em>« Code dur, rêve plus grand. »</em>
 </p>
