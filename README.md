@@ -48,10 +48,8 @@
 
 ---
 
-## 🤖 Barracuda Mood
-
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA4YTBiNmJpMGswM3BuNTVqM3JnYW1jazM3NDd1d3JvbjNta3hlZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="240"/>
   <br>
   <em>« Les bugs me craignent. Les leaks me respectent. »</em>
 </p>
@@ -68,13 +66,13 @@
 ## 🛰️ Ambiance cyber-galactique
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7z1xs4Fl9jb8Q/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA4YTBiNmJpMGswM3BuNTVqM3JnYW1jazM3NDd1d3JvbjNta3hlZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtfHI04l9bdLNmM/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="300" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7gLkf4EU/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/QGE6fQc8mrTASBVxhF/giphy.gif?cid=ecf05e476ui34t25adga2cok2fsso5rzv1ezwbctddej7l8k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
   <br><em>« Code dur, rêve plus grand. »</em>
 </p>
