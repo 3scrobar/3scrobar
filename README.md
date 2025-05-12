@@ -1,4 +1,9 @@
 <!-- Bannière animée -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace,+et+de+Barracuda&center=true&width=1000&height=50&color=7DF9FF&vCenter=true&size=22">
 </p>
