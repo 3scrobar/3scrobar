@@ -1,48 +1,45 @@
-<!-- Bannière animée -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace,+et+de+Barracuda&center=true&width=1000&height=50&color=7DF9FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace,+et+de+Barracuda&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
 </p>
 
-<h1 align="center">Yo, moi c'est 3scrobar !</h1>
+<h1 align="center" style="color:#FF00FF;">⚡ 3scrobar — CyberDev de l'espace ⚡</h1>
 <p align="center">
-  Étudiant à <strong>42 Perpignan</strong> | Fan de code & d’espace | <br> Même coupe que Barracuda, mais j’écris des lignes de C, pas des tartes !
+  🧠 Étudiant à <strong>42 Perpignan</strong> | 🚀 Fan de code & d’espace | 🕶️ Même coupe que Barracuda, mais j’écris des lignes de C, pas des tartes !
 </p>
 
 ---
 
-## 🚀 À propos
+## 🌌 À propos
 
-- Étudiant à [42 Perpignan](https://42.fr)
-- Je code en C, je respire le shell
-- Fan de l’espace, de GIFs cools, et de trucs galactiques
-- Entraîné pour repousser les limites du terminal
+> Plongé dans un terminal néon, en orbite autour du langage C  
+> Mon univers : shell, malloc et galaxies de pointeurs  
+> Fan d’astronomie, d’aliens… et des commits bien propres
 
 ---
 
-## ⚡ Compétences
+## 💻 Technologies utilisées
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vim&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,vscode&perline=6" />
 </p>
 
 ---
 
-## 🛰 Projets en orbite
+## 🛸 Projets en orbite
 
-### [Minishell](https://github.com/3scrobar/minishell)
-> Un shell 100% C, parce que `bash` c’est pour les faibles.
+### 🧠 [Minishell](https://github.com/3scrobar/minishell)
+> Un shell maison. Il n’y a pas de `system()`, juste de la souffrance.
 
-### [So_long](https://github.com/3scrobar/so_long)
-> Jeu 2D, mais difficulté intersidérale.
+### 👾 [So_long](https://github.com/3scrobar/so_long)
+> Un jeu rétro-pixel 2D, ambiance bug galactique. Fait avec du 💥 et du C.
 
 ---
 
-## 📊 Statistiques galactiques
+## 🔮 Statistiques interstellaires
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3scrobar&show_icons=true&theme=tokyonight" />
@@ -51,30 +48,29 @@
 
 ---
 
-## Barracuda Mood
+## 🤖 Barracuda Mood
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250"/>
-  <br><em>« Les bugs fuient quand je regarde le code. »</em>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="240"/>
+  <br>
+  <em>« Les bugs me craignent. Les leaks me respectent. »</em>
 </p>
 
 ---
 
-## ✨ Mini-jeu bonus
+## 🧭 Me retrouver ailleurs dans la galaxie
 
-<p align="center">
-  <a href="https://3scrobar.github.io/so_long/">
-    <img src="https://img.shields.io/badge/Joue+à+mon+jeu-Click+Here-orange?style=for-the-badge&logo=itchdotio" />
-  </a>
-  <br><small>(Spoiler : tu vas mourir au niveau 2)</small>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3scrobar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)
+[![42 Profile](https://img.shields.io/badge/42_Profile-black?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/3scrobar)
 
 ---
 
-## 📡 Me contacter
+## 🛰️ Ambiance cyber-galactique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3scrobar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ton-profil)
-[![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/3scrobar)
+<p align="center">
+  <img src="https://media.giphy.com/media/7z1xs4Fl9jb8Q/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="300" />
+</p>
 
 ---
 
