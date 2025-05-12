@@ -31,7 +31,7 @@
 
 ## 🛸 Projets en orbite
 
-### 🧠 [Minishell](https://github.com/3scrobar/minishell)
+### 🧠 [Minishell](https://github.com/3scrobar/Minishell)
 > Un shell maison. Il n’y a pas de `system()`, juste de la souffrance.
 
 ### 👾 [So_long](https://github.com/3scrobar/so_long)
