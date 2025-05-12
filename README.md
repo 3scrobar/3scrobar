@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace+et+de+Soufrance&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
 </p>
 
 <h1 align="center" style="color:#FF00FF;">⚡ 3scrobar — CyberDev de l'espace ⚡</h1>
@@ -35,7 +35,7 @@
 > Un shell maison. Il n’y a pas de `system()`, juste de la souffrance.
 
 ### 👾 [So_long](https://github.com/3scrobar/so_long)
-> Un jeu rétro-pixel 2D, ambiance bug galactique. Fait avec du 💥 et du C.
+> Un jeu rétro-pixel 2D, ambiance Tensai Shitara. Fait avec du 💥 et du C.
 
 ---
 
