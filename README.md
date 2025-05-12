@@ -34,7 +34,7 @@
 ### 🧠 [Minishell](https://github.com/3scrobar/Minishell)
 > Un shell maison. Il n’y a pas de `system()`, juste de la souffrance.
 
-### 👾 [So_long](https://github.com/3scrobar/so_long)
+### 👾 [So_long](https://github.com/3scrobar/So_long)
 > Un jeu rétro-pixel 2D, ambiance Tensai Shitara. Fait avec du 💥 et du C.
 
 ---
