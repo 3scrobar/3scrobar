@@ -8,7 +8,7 @@
 
 <h1 align="center" style="color:#FF00FF;">⚡ 3scrobar — CyberDev de l'espace ⚡</h1>
 <p align="center">
-  🧠 Étudiant à <strong>42 Perpignan</strong> | 🚀 Fan de code & d’espace | 🕶️ Même coupe que Barracuda, mais j’écris des lignes de C, pas des tartes !
+  🧠 Étudiant à <strong>42 Perpignan</strong> | 🚀 Fan de code & d’espace | 🕶️ Même coupe que Barracuda, mais j’écris des lignes de C, pas des histoires !
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ## 🧭 Me retrouver ailleurs dans la galaxie
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3scrobar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3scrobar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-le-sauter-629152337)
 [![42 Profile](https://img.shields.io/badge/42_Profile-black?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/3scrobar)
 
 ---
