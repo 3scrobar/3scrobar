@@ -1,8 +1,3 @@
-<!-- Fond Cyberpunk Spatial (responsive) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png" alt="Fond Cyberpunk Spatial" style="max-width: 100%; height: auto;" />
-</p>
-
 <!-- Bannière principale avec slogan -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/banner.png" alt="3SCROBAR Banner" style="max-width: 100%; height: auto;" />
@@ -49,7 +44,7 @@
 ## 🚀 Animation Space Shooter
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtfHI04l9bdLNmM/giphy.gif" alt="Animation Space Shooter" style="max-width: 100%; height: auto;" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Animation Space Shooter" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </p>
 
 ---
@@ -90,4 +85,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QGE6fQc8mrTASBVxhF/giphy.gif" width="300"/>
   <br><em>« Code dur, rêve plus grand. »</em>
+</p>
+
+<!-- Background en CSS via badge markdown -->
+<p>
+  <img src="https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png" width="0" height="0" style="background-image: url('https://raw.githubusercontent.com/3scrobar/3scrobar/main/assets/cyberpunk_space_bg.png'); background-size: cover; position: fixed; z-index: -1; top: 0; left: 0; width: 100vw; height: 100vh;"/>
 </p>
