@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace,+et+de+Barracuda&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+3scrobar+!;Développeur+en+formation+chez+42+Perpignan;Fan+de+code,+de+l%E2%80%99espace&center=true&width=1000&height=50&color=FF00FF&vCenter=true&size=22">
 </p>
 
 <h1 align="center" style="color:#FF00FF;">⚡ 3scrobar — CyberDev de l'espace ⚡</h1>
